@@ -1,0 +1,3 @@
+Repuesto 1: Nombre: filtro del aire, Cantidad: 15, Precio: 20.50, Numero de Parte: FA20234
+Repuesto 2: Nombre: Aceite motor, Cantidad: 50, Precio: 45.00, Numero de Parte: AM53045
+Repuesto 3: Nombre: Buj¡a de Encendido, Cantidad: 25, Precio: 10.75, Numero de Parte: BE1025
